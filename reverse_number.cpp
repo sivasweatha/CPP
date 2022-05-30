@@ -1,9 +1,9 @@
-#include <iostream.h>
-#include <conio.h>
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-	clrscr();
 	int n, m=0, sum=0, rem;
 
 	cout << "Enter your value\n";
